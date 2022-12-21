@@ -96,6 +96,7 @@ cursor: pointer;
     display: block;
     cursor: pointer;
   }
+
   .nav-elements ul a.active {
     color: #ffffff;
     font-weight: 500;
