@@ -17,7 +17,7 @@
   .us {
     color: #f72d57;
   }
-  .teamwork {
+  .teamworks {
     text-align: start;
     margin-left: 60px;
     font-family: "Poppins";
@@ -27,13 +27,13 @@
     margin-top: 60px;
     width: 470px;
     height: 108px;
-    color: #3f3f3f;
+    color:#3f3f3f;
   }
-  .success {
+  .succeed {
     color:#f72d57;
    
   }
-  .know-des{
+  .know-desc{
       width: 517px;
       height: 72px;
       font-size: 15px;
@@ -41,7 +41,7 @@
       text-align: start;
       margin-left: 60px;
   }
-  .know-us {
+  .know {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -70,7 +70,7 @@
         .us {
           color: #f72d57;
         }
-        .teamwork {
+        .teamworks {
           text-align: start;
           font-family: "Poppins";
           font-style: normal;
@@ -78,13 +78,15 @@
           font-size: 30px;
           margin-top: 60px;
           width: 380px;
-          color: #f72d57;
+          color:#3f3f3f ;
+          
         }
-        .success {
-          color: #3f3f3f;
+        .succeed {
+     
+            color:#3f3f3f;
          
         }
-        .know-des{
+        .know-desc{
             width: 380px;
             height: 72px;
             font-size: 15px;
@@ -92,7 +94,7 @@
             text-align: start;
          
         }
-        .know-us {
+        .know {
           display: flex;
           justify-content: center;
           align-items: center;

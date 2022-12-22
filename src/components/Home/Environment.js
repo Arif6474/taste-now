@@ -5,14 +5,14 @@ import environment from "../../components/images/environment.jpg";
 const Environment = () => {
   return (
     <div className="know-container">
-      <div className="know-us">
+      <div className="know">
         <div>
-          <div className="teamwork">
+          <div className="teamworks">
             <p>
-              We are all in for the<span className="success"> environment</span>
+              We are all in for the<span className="succeed"> environment</span>
             </p>
           </div>
-          <p className="know-des">
+          <p className="know-desc">
             TasteNow donates $1 penny for every purchase made from the app to an
             organization that takes care of our environment. We believe that with
             everyone´s help, we can make a better world.
