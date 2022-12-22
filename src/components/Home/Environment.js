@@ -18,8 +18,8 @@ const Environment = () => {
             everyone´s help, we can make a better world.
           </p>
         </div>
-        <div className="know-img">
-          <img src={environment} alt="" className="get-img" />
+        <div className="know-image">
+          <img src={environment} alt="" className="get-image" />
         </div>
       </div>
     </div>

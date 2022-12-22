@@ -50,11 +50,12 @@
   margin-top: 20px;
 }
 .get-img {
-  width: 500px;
+  width: 480px;
   height: 387px;
   border-radius: 10px;
 }
 .know-img {
+  width: 480px;
 }
 @media (max-width: 600px) {
     .know-title {
@@ -100,8 +101,14 @@
         margin-top: 20px;
       }
       .get-img {
-        width: 420px;
+        width: 380px;
         height: 300px;
         border-radius: 10px;
+        margin-top: 20px;
+        margin: auto;
+      }
+      .know-img {
+        width: 380px;
+        margin: auto;
       }
 }
