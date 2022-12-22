@@ -19,16 +19,15 @@ body {
 
 .navbar {
   height: 60px;
-
   position: relative;
 }
-
+/* 
 .logo {
 }
 
 .nav-elements {
   
-}
+} */
 .logo-cart{
   color: #F72D57;
   font-family:Gabriola, cursive;
@@ -136,7 +135,7 @@ cursor: pointer;
     background-color: #F72D57;
     color: #FFFFFF;
     width: 0px;
-    height: calc(100vh - 60px);
+
     transition: all 0.3s ease-in;
     overflow: hidden;
   }

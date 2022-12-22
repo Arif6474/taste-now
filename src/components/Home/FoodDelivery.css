@@ -4,7 +4,8 @@
     flex-basis: auto;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+ 
+    
 }
 .description{
    
@@ -23,14 +24,11 @@ color: #3F3F3F;
 width: 450px;
 height: 120px;
 text-align: start;
-
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
 font-size: 40px;
 line-height: 60px;
-
-
 color: #3F3F3F;
 }
 .delivery{
@@ -39,9 +37,10 @@ color: #3F3F3F;
 .food-bg{
     position: absolute;
 width: 540px;
-height: 540px;
+height: 440px;
 align-items: center;
 transform: rotate(59.69deg);
+overflow: hidden;
 
 }
 
@@ -49,8 +48,9 @@ transform: rotate(59.69deg);
 .food-bg2{
     
     width: 540px;
-    height: 540px;
+    height: 440px;
     transform: rotate(-120.31deg);
+    overflow: hidden;
     
 
 }
@@ -106,8 +106,7 @@ transform: rotate(59.69deg);
         
         width: 360px;
         height: 360px;
-        transform: rotate(-120.31deg);
-        
+        transform: rotate(-120.31deg);    
     
     } 
 }
