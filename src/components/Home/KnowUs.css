@@ -57,6 +57,17 @@
 .know-img {
   width: 480px;
 }
+.element {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transition: all 2s ease;
+}
+
+.element:hover {
+  width: 200px;
+  height: 200px;
+}
 @media (max-width: 600px) {
     .know-title {
         text-align: center;
