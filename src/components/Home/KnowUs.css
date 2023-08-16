@@ -63,7 +63,12 @@
   background-color: red;
   transition: all 2s ease;
 }
-
+.active-link{
+  color: #175d8f
+}
+.link{
+  color: #010a10
+}
 .element:hover {
   width: 200px;
   height: 200px;
