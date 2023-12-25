@@ -10,21 +10,23 @@ import Tabs from './Tabs';
 import Card from '../Screen/Card/Card';
 import LiveStream from '../LiveStream/LiveStream';
 import PaginationComponent from './PaginationComponent';
+import Problem from './Problem';
 
 const Home = () => {
     return (
         <div>
-            <LiveStream/>
-            <FoodDelivery/>
-            <Categories/>
-            <KnowUs/>
-            <Environment/>
+            {/* <LiveStream/> */}
+            {/* <FoodDelivery/> */}
+            {/* <Categories/> */}
+            {/* <KnowUs/> */}
+            {/* <Environment/> */}
             {/* <Active/>
             <Tabs/>
             <Password/>
             <Modal/> */}
-            <PaginationComponent/>
-            <Card/>
+            {/* <PaginationComponent/> */}
+            {/* <Card/> */}
+            <Problem/>
 
         </div>
     );
